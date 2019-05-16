@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Baloo Bhai', cursive;
+}
+
+td {
+    width: 3rem;
+    text-align: center;
+}
+
+.table-bordered th, .table-bordered td {
+    border-color: dimgray;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.badge-warning {
+    border-radius: 0;
+    letter-spacing: 0.1rem;
+    font-weight: lighter;
+    font-size: 1.1rem;
+    vertical-align: super;
+    font-family: sans-serif;
+}
